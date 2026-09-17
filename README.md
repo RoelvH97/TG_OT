@@ -81,10 +81,10 @@ Set `"mode": "eval"` to aggregate and statistically compare registration results
 
 ## Citation
 
-If you use GeoPose, cite the paper:
+If you use TG-OT, cite the paper:
 
 ```bibtex
-@inproceedings{vanherten2026geopose,
+@inproceedings{van2026topology,
   title   = {TG-OT: Topology-guided CCTA-IVUS Registration via Optimal Transport Matching},
   author  = {R. L. M. van Herten and José P. Henriques and R. Nils Planken and Joost Daemen and Eline M. J. Hartman and Jolanda J. Wentzel and Johannes C. Paetzold and Ivana Išgum},
   booktitle = {International conference on medical image computing and computer-assisted intervention},
