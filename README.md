@@ -1,8 +1,11 @@
 # TG-OT: Topology-guided CCTA-IVUS Registration via Optimal Transport Matching
 
-This repository contains the implementation for the MICCAI 2026 submission:
+[![Paper](https://img.shields.io/badge/arXiv-2412.17100-b31b1b.svg)](https://arxiv.org/abs/2412.17100)
 
-**"TG-OT: Topology-guided CCTA-IVUS registration via optimal transport matching"**
+This repository contains the implementation for the MICCAI 2026 paper:
+
+**["TG-OT: Topology-guided CCTA-IVUS registration via optimal transport matching"](https://openreview.net/forum?id=hlaniu1tbq#discussion)**
+*- Rudolf L.M. van Herten, José P. Henriques, R. Nils Planken, Joost Daemen, Eline M.J. Hartman, Jolanda J. Wentzel, Johannes C. Paetzold, Ivana Išgum*
 
 ## Overview
 
@@ -75,6 +78,20 @@ python main_register.py configs/eval_register.json
 ```
 
 Set `"mode": "eval"` to aggregate and statistically compare registration results across methods.
+
+## Citation
+
+If you use GeoPose, cite the paper:
+
+```bibtex
+@inproceedings{vanherten2026geopose,
+  title   = {TG-OT: Topology-guided CCTA-IVUS Registration via Optimal Transport Matching},
+  author  = {R. L. M. van Herten and José P. Henriques and R. Nils Planken and Joost Daemen and Eline M. J. Hartman and Jolanda J. Wentzel and Johannes C. Paetzold and Ivana Išgum},
+  booktitle = {International conference on medical image computing and computer-assisted intervention},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2608.16600}
+}
+```
 
 ## License
 
