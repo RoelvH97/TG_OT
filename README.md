@@ -4,7 +4,7 @@
 
 This repository contains the implementation for the MICCAI 2026 paper:
 
-**["TG-OT: Topology-guided CCTA-IVUS registration via optimal transport matching"](https://openreview.net/forum?id=hlaniu1tbq#discussion)**
+**["TG-OT: Topology-guided CCTA-IVUS registration via optimal transport matching"](https://arxiv.org/abs/2412.17100)**
 *- Rudolf L.M. van Herten, José P. Henriques, R. Nils Planken, Joost Daemen, Eline M.J. Hartman, Jolanda J. Wentzel, Johannes C. Paetzold, Ivana Išgum*
 
 ## Overview
