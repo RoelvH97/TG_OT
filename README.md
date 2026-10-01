@@ -1,10 +1,11 @@
 # TG-OT: Topology-guided CCTA-IVUS Registration via Optimal Transport Matching
 
 [![Paper](https://img.shields.io/badge/arXiv-2412.17100-b31b1b.svg)](https://arxiv.org/abs/2412.17100)
+[![MICCAI SHIELD](https://shields.io/badge/MICCAI-2026-blue)](https://papers.miccai.org/miccai-2026/1052-Paper1931.html)
 
 This repository contains the implementation for the MICCAI 2026 paper:
 
-**["TG-OT: Topology-guided CCTA-IVUS registration via optimal transport matching"](https://arxiv.org/abs/2412.17100)**
+**["TG-OT: Topology-guided CCTA-IVUS registration via optimal transport matching"](https://arxiv.org/pdf/2412.17100)**
 *- Rudolf L.M. van Herten, José P. Henriques, R. Nils Planken, Joost Daemen, Eline M.J. Hartman, Jolanda J. Wentzel, Johannes C. Paetzold, Ivana Išgum*
 
 ## Overview
